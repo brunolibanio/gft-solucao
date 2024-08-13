@@ -9,7 +9,7 @@ Sistema para controle de fluxo de caixa diário e geração de relatórios conso
 
 - **Frontend**: React (hospedado em AWS Amplify ou S3 + CloudFront)
 - **Backend**: AWS Lambda (Node.js) e API Gateway
-- **Banco de Dados**: Amazon DynamoDB
+- **Banco de Dados**: Amazon RDS ou DynamoDB
 - **Relatórios**: Amazon QuickSight e S3 para armazenamento
 
 ## Instalação e Execução Local
