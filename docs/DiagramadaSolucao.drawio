@@ -1,0 +1,171 @@
+<mxfile host="app.diagrams.net" modified="2024-08-13T17:15:39.167Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="FJAaNrrHS_rob3VHQPPg" version="24.6.4" type="device">
+  <diagram name="Página-1" id="DlxXxc5AMS8iz4JbHy9z">
+    <mxGraphModel dx="954" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-26" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="109.5" width="620" height="155.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mg6wt3UdfQi6u2tx5nGe-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-1" value="Front" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.amplify;" vertex="1" parent="1">
+          <mxGeometry x="210" y="145" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mg6wt3UdfQi6u2tx5nGe-4" target="Mg6wt3UdfQi6u2tx5nGe-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="280" />
+              <mxPoint x="435" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-4" value="Amazon Cloudfront&amp;nbsp;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudfront;" vertex="1" parent="1">
+          <mxGeometry x="570" y="135" width="80" height="104.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mg6wt3UdfQi6u2tx5nGe-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mg6wt3UdfQi6u2tx5nGe-5" target="Mg6wt3UdfQi6u2tx5nGe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mg6wt3UdfQi6u2tx5nGe-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-5" value="Amazon API Gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.api_gateway;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mg6wt3UdfQi6u2tx5nGe-6" target="Mg6wt3UdfQi6u2tx5nGe-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-6" value="Lambda CreateTransaction Function" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
+          <mxGeometry x="200" y="551" width="90" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mg6wt3UdfQi6u2tx5nGe-7" target="Mg6wt3UdfQi6u2tx5nGe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-7" value="Lambda CalculateBalance Function" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
+          <mxGeometry x="395" y="551" width="90" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mg6wt3UdfQi6u2tx5nGe-8" target="Mg6wt3UdfQi6u2tx5nGe-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mg6wt3UdfQi6u2tx5nGe-8" target="Mg6wt3UdfQi6u2tx5nGe-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-8" value="Lambda GenerateReport Function" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
+          <mxGeometry x="600" y="551" width="90" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mg6wt3UdfQi6u2tx5nGe-73" target="Mg6wt3UdfQi6u2tx5nGe-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-10" value="Amazon RDS (Saldos e Consolidados)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.rds;" vertex="1" parent="1">
+          <mxGeometry x="400" y="750" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mg6wt3UdfQi6u2tx5nGe-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-12" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="420" y="135" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-16" value="Amazon SNS (Notificação&amp;nbsp; e&amp;nbsp; Mensagens)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.sns;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="1100" width="55" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-17" value="AWS&lt;br&gt;CloudTrail (Auditoria e Registro de Atividades)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudtrail;" vertex="1" parent="1">
+          <mxGeometry x="228" y="1288" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-18" value="Amazon QuickSight (Visualização de Relatórios)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.quicksight;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1098" width="80" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-20" value="Interface do usuario(React, Angular, Vue.js&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-24" value="Amazon S3 para arquivos estáticos e CloudFront para distribuição global." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="30" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-28" value="Gerencia&amp;nbsp; as APIs expostas para o frontend e as invocações das funções lambda." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mg6wt3UdfQi6u2tx5nGe-62" target="Mg6wt3UdfQi6u2tx5nGe-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-36" value="Amazon RDS (Lançamento e Saldo diário)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.rds;" vertex="1" parent="1">
+          <mxGeometry x="203" y="750" width="85" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mg6wt3UdfQi6u2tx5nGe-75" target="Mg6wt3UdfQi6u2tx5nGe-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-37" value="Amazon RDS (Relatório ou Dados Relacionados)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.rds;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="750" width="85" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mg6wt3UdfQi6u2tx5nGe-42" target="Mg6wt3UdfQi6u2tx5nGe-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-42" value="AWS Database Migration Service (Sincronizaçao de Dados)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.database_migration_service;" vertex="1" parent="1">
+          <mxGeometry x="198" y="1098" width="95" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mg6wt3UdfQi6u2tx5nGe-43" target="Mg6wt3UdfQi6u2tx5nGe-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="118" y="1343" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-43" value="AWS Glue (ETL e Sincronização" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.glue;" vertex="1" parent="1">
+          <mxGeometry x="68" y="1158" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-53" value="Cria e atualiza lançamentos." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-54" value="Calcula o saldo diário com base nos lançamentos." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-56" value="Gera relatórios e os armazena no Amazon S3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-57" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="745" y="576" width="65" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mg6wt3UdfQi6u2tx5nGe-36" target="Mg6wt3UdfQi6u2tx5nGe-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="920" as="sourcePoint" />
+            <mxPoint x="246" y="1098" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-62" value="Amazon CloudWatch" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudwatch;" vertex="1" parent="1">
+          <mxGeometry x="220.5" y="946" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mg6wt3UdfQi6u2tx5nGe-10" target="Mg6wt3UdfQi6u2tx5nGe-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="920" as="sourcePoint" />
+            <mxPoint x="440" y="1098" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-73" value="Amazon CloudWatch" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudwatch;" vertex="1" parent="1">
+          <mxGeometry x="415" y="946" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mg6wt3UdfQi6u2tx5nGe-37" target="Mg6wt3UdfQi6u2tx5nGe-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645" y="925" as="sourcePoint" />
+            <mxPoint x="645" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-75" value="Amazon CloudWatch" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudwatch;" vertex="1" parent="1">
+          <mxGeometry x="620" y="946" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6wt3UdfQi6u2tx5nGe-78" value="Justificativa para Monitoramento e Banco Relacional&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;strong&gt;Amazon RDS&lt;/strong&gt;: Utilizado para armazenar dados relacionais e suportar consultas complexas e integrações.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Amazon RDS Read Replicas e Aurora Global Databases&lt;/strong&gt;: Melhoram a disponibilidade e o desempenho para leitura e escrita de dados distribuídos.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;AWS DMS&lt;/strong&gt;: Facilita a migração e sincronização de dados entre diferentes bancos de dados e serviços.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;AWS Glue&lt;/strong&gt;: Permite a transformação e integração de dados de diferentes fontes.&lt;/li&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;AWS CloudWatch&lt;/b&gt;: Fornece uma solução integrada para monitoramento, logs e alarmes, essencial para gerenciar a performance e a saúde dos serviços.&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;AWS CloudTrail&lt;/b&gt;: Ajuda na auditoria e no rastreamento das atividades dentro da AWS para conformidade e segurança.&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Amazon QuickSight&lt;/b&gt;: Permite a criação de dashboards e relatórios interativos baseados nos dados armazenados no RDS ou S3.&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;AWS SNS&lt;/b&gt;: Facilita o envio de notificações e mensagens para manter a equipe informada sobre eventos importantes.&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;fillColor=none;fontColor=default;labelBackgroundColor=none;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1460" width="580" height="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
